@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+[https://clone-2-30fe8.web.app/](https://clone-2-30fe8.web.app/)
+
+## Api Key
+
+Get your own Api Key from Google Custom Search, [https://developers.google.com/custom-search/v1/overview](https://developers.google.com/custom-search/v1/overview). And put on Keys.js file.
+
 ## Available Scripts
 
 In the project directory, you can run:
